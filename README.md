@@ -30,7 +30,7 @@ To join a cybersecurity team where I can apply my technical skills, grow through
 
 ---
 
-## 📫 Contact
+## 📫 Connect with me!
 
 - [LinkedIn](https://www.linkedin.com/in/shyamsrivastava)  
 - [TryHackMe](https://tryhackme.com/p/Err0r403)  
