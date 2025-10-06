@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Shyam (Err0r403) | Entry-Level Cybersecurity Analyst (Open To WORK)
+## 👋 Hi, I'm Shyam (Err0r403) | Cybersecurity Analyst (Open To WORK)
 
 I’m an aspiring cybersecurity analyst with a strong foundation in threat detection, network security, and hands-on troubleshooting. I’ve built my skills through industry-recognized certifications and practical labs, and I’m actively seeking remote or hybrid entry-level roles where I can contribute to a security-focused team.
 
