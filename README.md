@@ -1,10 +1,10 @@
-## 👋 Hi, I'm Shyam (Err0r403) | Cybersecurity Analyst (Open To WORK)
+## 👋 Hi, I'm Shyam | Cybersecurity Analyst (Open To WORK) 
 
 I’m an aspiring cybersecurity analyst with a strong foundation in threat detection, network security, and hands-on troubleshooting. I’ve built my skills through industry-recognized certifications and practical labs, and I’m actively seeking remote or hybrid entry-level roles where I can contribute to a security-focused team.
 
----
 ![tryhackme stats](https://raw.githubusercontent.com/ShyamSrivastav/ShyamSrivastav/main/assets/thm_propic.png)
 ---
+
 ## 📌 Summary
 
 - Certified **CompTIA Security+ (SY0-701) ce** and **[PCEP-30-02] PCEP™ – Certified Entry-Level Python Programmer**
@@ -22,12 +22,6 @@ I’m an aspiring cybersecurity analyst with a strong foundation in threat detec
  - **Operating Systems:** Windows 10/11, Kali/Parrot Linux, TrueNAS Core
  - **Scripting:** Python (PCEP), Basic SQL
  - **Soft Skills:** Analytical thinking, troubleshooting, adaptability, communication
-
----
-
-## 🎯 Career Objective
-
-To join a cybersecurity team where I can apply my technical skills, grow through mentorship and collaboration, and contribute to protecting systems and data. I’m particularly interested in remote or hybrid roles that enable me to support my family while continuing to learn and grow.
 
 ---
 
