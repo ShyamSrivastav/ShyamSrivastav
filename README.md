@@ -3,7 +3,8 @@
 I’m an aspiring cybersecurity analyst with a strong foundation in threat detection, network security, and hands-on troubleshooting. I’ve built my skills through industry-recognized certifications and practical labs, and I’m actively seeking remote or hybrid entry-level roles where I can contribute to a security-focused team.
 
 ---
-
+![tryhackme stats](https://raw.githubusercontent.com/ShyamSrivastav/ShyamSrivastav/master/assets/thm_propic.png)
+---
 ## 📌 Summary
 
 - Certified **CompTIA Security+ (SY0-701) ce** and **[PCEP-30-02] PCEP™ – Certified Entry-Level Python Programmer**
