@@ -1,35 +1,55 @@
-## 👋 Hi, I'm Shyam | Cybersecurity Analyst (Open To WORK) 
+# Hi, I'm Shyam 👋
 
-I’m an aspiring cybersecurity analyst with a strong foundation in threat detection, network security, and hands-on troubleshooting. I’ve built my skills through industry-recognized certifications and practical labs, and I’m actively seeking remote or hybrid entry-level roles where I can contribute to a security-focused team.
+**Aspiring SOC Analyst · CompTIA Security+ certified**
 
-![tryhackme stats](https://raw.githubusercontent.com/ShyamSrivastav/ShyamSrivastav/main/assets/thm_propic.png)
----
-
-## 📌 Summary
-
-- Certified **CompTIA Security+ (SY0-701) ce** and **[PCEP-30-02] PCEP™ – Certified Entry-Level Python Programmer**
-- Completed **Google Cybersecurity Certificate (V2)**
-- Experienced in **SIEM deployment (Wazuh)**, **VPN setup**, and **network diagnostics**
-- Proficient with tools like **Wireshark**, **Burp Suite**, **Nmap**, and **Windows Defender**
+I'm building a career in security operations, with hands-on lab experience in SIEM monitoring, intrusion detection, and log and network analysis. I'm looking for an entry-level SOC Analyst role where I can apply these skills in a production environment.
 
 ---
 
-## 🛠️ Skills
+## What I work on
 
- - **Security Operations:**  SIEM (Wazuh), Microsoft Defender, IDS/IPS monitoring, Incident Response, Threat Hunting, Log Analysis
- - **Networking:** TCP/IP, VPN, Packet Capture & Analysis, Firewall Rules, Router/Switch Configuration
- - **Security Tools:** Wireshark, Burp Suite, Nmap, Cisco Packet Tracer, tcpdump
- - **Operating Systems:** Windows 10/11, Kali/Parrot Linux, TrueNAS Core
- - **Scripting:** Python (PCEP), Basic SQL
- - **Soft Skills:** Analytical thinking, troubleshooting, adaptability, communication
+- **SIEM monitoring:** configuring Wazuh in a lab to triage endpoint alerts, classify events, and document findings
+- **Network threat detection:** analysing Snort alerts and Wireshark captures to investigate simulated attacks
+- **Systems & networking:** Linux and Windows administration, OpenVPN, SMB, firewall rules, static routing, and log-based troubleshooting
+- **Cloud & access control:** IAM, access controls, and AWS security fundamentals
 
 ---
 
-## 📫 Connect with me!
+## Projects
 
-- [LinkedIn](https://www.linkedin.com/in/shyamsrivastava)  
-- [TryHackMe](https://tryhackme.com/p/Err0r403)  
-- [GitHub](https://github.com/shyamsrivastav)
-- [Credly](https://www.credly.com/users/shyamsrivastava/badges#credly)
+| Project | What it covers |
+|---|---|
+| [**snort-live-attacks-soc1-tryhackme**](https://github.com/ShyamSrivastav/snort-live-attacks-soc1-tryhackme) | Snort lab write-up covering brute-force and reverse-shell scenarios from TryHackMe's *Snort Challenge – Live Attacks* room, with methodology, evidence, and lessons learned |
+| [**vpn-remote-access-tally**](https://github.com/ShyamSrivastav/vpn-remote-access-tally) | OpenVPN (TCP) tunnel between two home networks for authenticated SMB file access and Tally Prime license-server routing, with Windows Firewall rules, static routing, and Event Viewer troubleshooting |
+
+*All projects are completed in controlled lab environments for learning purposes.*
 
 ---
+
+## Certifications
+
+| Certification | Issued |
+|---|---|
+| CompTIA Security+ (SY0-701) | July 2025 |
+| Google Cybersecurity Professional Certificate | April 2024 |
+| PCEP – Certified Entry-Level Python Programmer (30-02) | April 2023 |
+
+Ongoing hands-on practice on [TryHackMe](https://tryhackme.com/p/Err0r403) since July 2023.
+
+---
+
+## Skills
+
+| | |
+|---|---|
+| **Security Operations** | SIEM monitoring, alert triage, log analysis, incident response, incident documentation, threat detection |
+| **Tools** | Wazuh, Snort, Wireshark, Nmap, OpenVPN |
+| **Networking** | TCP/IP, DNS, LAN/WAN, VPN, firewalls, static routing, network troubleshooting |
+| **Systems & Cloud** | Windows, Linux, IAM, AWS security fundamentals, endpoint security |
+| **Scripting & Data** | Python (basic), SQL, Git |
+
+---
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/shyamsrivastava) · [TryHackMe](https://tryhackme.com/p/Err0r403) · [Credly](https://www.credly.com/users/shyamsrivastava/badges#credly)
